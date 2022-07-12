@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cognizant App</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_name">Enter name…</string>
+    <string name="enter_password">Enter password…</string>
+</resources>
